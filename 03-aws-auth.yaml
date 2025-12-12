@@ -10,7 +10,7 @@ data:
     - groups:
       - pod-reader
       userarn: arn:aws:iam::441700732169:user/suresh
-      username: sureash
+      username: suresh
 kind: ConfigMap
 metadata:
   name: aws-auth
